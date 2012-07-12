@@ -109,7 +109,7 @@ extern "C" {
             BITMASK_FLAG(mIndex)) == 0x0)
 
 #define OMX_CORE_NUM_INPUT_BUFFERS    2
-#define OMX_CORE_NUM_OUTPUT_BUFFERS   16
+#define OMX_CORE_NUM_OUTPUT_BUFFERS   4
 
 #define OMX_CORE_INPUT_BUFFER_SIZE    8160 // Multiple of 160
 #define OMX_CORE_CONTROL_CMDQ_SIZE   100
